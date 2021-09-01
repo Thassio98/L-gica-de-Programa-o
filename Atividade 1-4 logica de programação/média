@@ -1,0 +1,7 @@
+Ler nota 1
+Ler nota 2
+Ler nota 3
+Media := (nota1+nota2+nota3) dividido por 3
+Mostar resultado de média
+Se média >=7 então (Parabéns Beija-flor, você está aprovado!)
+Se não então (João-de-barro , você está reprovado.)
